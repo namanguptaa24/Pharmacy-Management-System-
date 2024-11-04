@@ -1,0 +1,26 @@
+[
+    {
+        "name": "crossin",
+        "price": 75.0,
+        "quantity": 100,
+        "category": "tablet",
+        "discount": 5.0,
+        "expiry_date": "2027-08-24"
+    },
+    {
+        "name": "paracetamol",
+        "price": 25.0,
+        "quantity": 75,
+        "category": "tablet",
+        "discount": 5.0,
+        "expiry_date": "2025-05-12"
+    },
+    {
+        "name": "lexanox",
+        "price": 125.0,
+        "quantity": 70,
+        "category": "lubricant",
+        "discount": 0.0,
+        "expiry_date": "2027-12-12"
+    }
+]
